@@ -1,0 +1,28 @@
+[
+    {
+        "amenity": "pub", 
+        "name": {
+            "zh_pinyin": "M\u01cey\u01ce Ji\u01d4b\u0101", 
+            "en": "Maya", 
+            "zh": "\u739b\u96c5\u9152\u5427", 
+            "name": "Maya Pub"
+        }, 
+        "created": {
+            "changeset": "10212601", 
+            "user": "nonlilnear", 
+            "version": "9", 
+            "uid": "430804", 
+            "timestamp": "2011-12-27T02:56:46Z"
+        }, 
+        "pos": [
+            30.2645523, 
+            120.1288034
+        ], 
+        "address": {
+            "street": "\u767d\u6c99\u6cc9", 
+            "housenumber": "94"
+        }, 
+        "type": "node", 
+        "id": "26466690"
+    }
+]

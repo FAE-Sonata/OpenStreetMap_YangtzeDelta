@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.7T" timestamp="2015-10-24T00:30:02Z">
+	<bounds minlat="29.477" minlon="118.887" maxlat="32.472" maxlon="123.787"/>
+	<node id="26466690" lat="30.2645523" lon="120.1288034" version="9" timestamp="2011-12-27T02:56:46Z" changeset="10212601" uid="430804" user="nonlilnear">
+			<tag k="name" v="玛雅酒吧 Maya Pub"/>
+			<tag k="amenity" v="pub"/>
+			<tag k="name:en" v="Maya"/>
+			<tag k="name:zh" v="玛雅酒吧"/>
+			<tag k="addr:street" v="白沙泉"/>
+			<tag k="name:zh_pinyin" v="Mǎyǎ Jiǔbā"/>
+			<tag k="addr:housenumber" v="94"/>
+	</node>
+</osm>
